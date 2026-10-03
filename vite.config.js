@@ -2,9 +2,9 @@ import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
-// GitHub Pages 프로젝트 사이트: /20191055/
+// GitHub Pages 프로젝트 사이트: /H-PMS-mockup/
 // 로컬 dev는 base '/' 유지 (vite build 때만 production base 적용)
-const pagesBase = '/20191055/'
+const pagesBase = '/H-PMS-mockup/'
 
 export default defineConfig(({ command }) => ({
   base: command === 'build' ? pagesBase : '/',

@@ -22,8 +22,8 @@ npm run preview
 
 로컬 설치 없이 화면을 확인할 수 있습니다.
 
-- **URL:** https://hyundaiezwel.github.io/20191055/
-- **저장소:** https://github.com/hyundaiezwel/20191055
+- **URL:** https://hyundaiezwel.github.io/H-PMS-mockup/
+- **저장소:** https://github.com/hyundaiezwel/H-PMS-mockup
 
 접속·로그인 방법(테스트 계정)은 **`TEST_ACCOUNTS.md`** 를 참고하세요.
 
